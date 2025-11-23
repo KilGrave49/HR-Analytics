@@ -42,7 +42,7 @@ Live Simulation: "What-if" analysis tool to predict risk for individual employee
 
 Clone the repository:
 
-git clone [https://github.com/your-username/hr-analytics-pro.git](https://github.com/your-username/hr-analytics-pro.git)
+git clone [https://github.com/your-username/hr-analytics-pro.git](https://github.com/KilGrave49/hr-analytics-pro.git)
 cd hr-analytics-pro
 
 
@@ -81,3 +81,4 @@ README.md: Project documentation.
 Akshay Kumar - Lead Developer & Analyst
 
 Built as part of the Business Intelligence & Data Modelling (BIDM) Course.
+
